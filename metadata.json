@@ -1,0 +1,8 @@
+{
+  "name": "Nama Token Anda",
+  "symbol": "SIMBOL",
+  "description": "Deskripsi token Anda",
+  "image": "https://raw.githubusercontent.com/[USERNAME]/my-solana-token/main/assets/logo.png",
+  "decimals": 9,
+  "website": "https://github.com/[USERNAME]/my-solana-token"
+}
